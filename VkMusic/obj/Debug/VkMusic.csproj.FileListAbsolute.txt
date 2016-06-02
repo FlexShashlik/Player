@@ -1,0 +1,23 @@
+c:\users\egorka\documents\visual studio 2012\Projects\VkMusic\VkMusic\bin\Debug\VkMusic.exe.config
+c:\users\egorka\documents\visual studio 2012\Projects\VkMusic\VkMusic\obj\Debug\VkMusic.FormAuth.resources
+c:\users\egorka\documents\visual studio 2012\Projects\VkMusic\VkMusic\obj\Debug\VkMusic.FormWork.resources
+c:\users\egorka\documents\visual studio 2012\Projects\VkMusic\VkMusic\obj\Debug\VkMusic.Properties.Resources.resources
+c:\users\egorka\documents\visual studio 2012\Projects\VkMusic\VkMusic\obj\Debug\VkMusic.csproj.GenerateResource.Cache
+c:\users\egorka\documents\visual studio 2012\Projects\VkMusic\VkMusic\bin\Debug\VkMusic.exe
+c:\users\egorka\documents\visual studio 2012\Projects\VkMusic\VkMusic\bin\Debug\VkMusic.pdb
+c:\users\egorka\documents\visual studio 2012\Projects\VkMusic\VkMusic\obj\Debug\VkMusic.exe
+c:\users\egorka\documents\visual studio 2012\Projects\VkMusic\VkMusic\obj\Debug\VkMusic.pdb
+c:\users\egorka\documents\visual studio 2012\Projects\VkMusic\VkMusic\obj\Debug\VkMusic.csprojResolveAssemblyReference.cache
+C:\Users\Sevada\Desktop\VkMusic\VkMusic\bin\Debug\VkMusic.exe.config
+C:\Users\Sevada\Desktop\VkMusic\VkMusic\obj\Debug\VkMusic.exe
+C:\Users\Sevada\Desktop\VkMusic\VkMusic\obj\Debug\VkMusic.pdb
+C:\Users\Sevada\Desktop\VkMusic\VkMusic\bin\Debug\VkMusic.exe
+C:\Users\Sevada\Desktop\VkMusic\VkMusic\bin\Debug\VkMusic.pdb
+C:\Users\Sevada\Desktop\VkMusic\VkMusic\obj\Debug\VkMusic.csprojResolveAssemblyReference.cache
+C:\Users\Sevada\Desktop\VkMusic\VkMusic\obj\Debug\VkMusic.FormAuth.resources
+C:\Users\Sevada\Desktop\VkMusic\VkMusic\obj\Debug\VkMusic.FormWork.resources
+C:\Users\Sevada\Desktop\VkMusic\VkMusic\obj\Debug\VkMusic.Properties.Resources.resources
+C:\Users\Sevada\Desktop\VkMusic\VkMusic\obj\Debug\VkMusic.csproj.GenerateResource.Cache
+C:\GIT\VkPlayer\VkMusic\bin\Debug\VkMusic.exe.config
+C:\GIT\VkPlayer\VkMusic\obj\Debug\VkMusic.exe
+C:\GIT\VkPlayer\VkMusic\obj\Debug\VkMusic.pdb
